@@ -43,12 +43,10 @@ THIS IS THE ADVAND VERSION OF EARLIER FILTER BOT
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/belugaop/filter-for-tg-v3/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/belugaop/adv-auto-filter-bot//tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -57,7 +55,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-gh repo clone belugaop/filter-for-tg-v3
+gh repo clone belugaop/adv-auto-filter-bot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -112,7 +110,6 @@ python3 bot.py
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
- - Thanks to Mallu Empire for his amazing Video collab
  - Thanks To All Everyone In This Journey
 
 ### Note
