@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/belugaop/filter-for-tg-v3/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/belugaop/filter-for-tg-v3)
 
-
+THIS IS THE ADVAND VERSION OF EARLIER FILTER BOT
 ## Features
 
 - [x] Auto Filter
