@@ -1,10 +1,9 @@
 [![Stars](https://img.shields.io/github/stars/belugaop/adv-auto-filter-bot?style=flat-square&color=yellow)](https://github.com/belugaop/adv-auto-filter-bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/belugaop/adv-auto-filter-bot/fork)
 [![Size](https://img.shields.io/github/repo-size/belugaop/filter-for-tg-v3?style=flat-square&color=green)](https://github.com/belugaop/adv-auto-filter-bot/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/belugaop/adv-auto-filter-bot)   
 [![Contributors](https://img.shields.io/github/contributors/belugaop/adv-auto-filter-bot?style=flat-square&color=green)](https://github.com/belugaop/adv-auto-filter-bot)
 [![License](https://img.shields.io/badge/License-AGPL-blue)]https://github.com/belugaop/adv-auto-filter-bot/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/belugaop/adv-auto-filter-bot)](https://stars.medv.io/belugaop/adv-auto-filter-bot)
+
 
 ## Features
 
