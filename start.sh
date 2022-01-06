@@ -4,7 +4,7 @@ then
   git clone https://github.com/belugaop/adv-auto-filter-bot.git /adv-auto-filter-bot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /filter-for-tg-v3
+  git clone $UPSTREAM_REPO /adv-auto-filter-bot
 fi
 cd /adv-auto-filter-bot
 pip3 install -U -r requirements.txt
